@@ -1,4 +1,4 @@
 # .gitignore
 
-# Ignore API_key.py
-API_key.py
+# Ignore API_keys.py
+API_keys.py
